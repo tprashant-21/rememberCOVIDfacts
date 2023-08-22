@@ -7,6 +7,8 @@ A memory game to learn covid infos and prevention.
 I partnered with my friend, Nadia Salet (Arts & Design Major) to built this project. 
 Her expertise in Adobe Illustrator and design was a major help. 
 
+read about it in newspaper: https://scstudentmedia.com/computer-science-student-prashant-timalsina-uses-skills-in-regional-coding-contest/
+
 ### Built With
 
 * HTML
